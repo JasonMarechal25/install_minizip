@@ -1,0 +1,3 @@
+/home/marechaljas/CLionProjects/install_minizip/cmake-build-debug/_deps/minizip-subbuild/CMakeFiles/rebuild_cache.dir
+/home/marechaljas/CLionProjects/install_minizip/cmake-build-debug/_deps/minizip-subbuild/CMakeFiles/minizip-populate.dir
+/home/marechaljas/CLionProjects/install_minizip/cmake-build-debug/_deps/minizip-subbuild/CMakeFiles/edit_cache.dir
