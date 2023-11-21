@@ -1,7 +1,0 @@
-# ninja log v5
-0	18	1700474716495978224	foo/CMakeFiles/foo.dir/Foo.cpp.o	151ab3ada6ac34a1
-19	34	1700474716511978223	foo/libfoo.a	1a1211152008f8cc
-0	51	1700475434827975483	build.ninja	eba4617760fb0da9
-214	258	1700474200027980194	install_minizip	5ea9a84a3c33148c
-34	44	0	CMakeFiles/install.util	38923a27dee1f39d
-1	214	1700474199987980194	CMakeFiles/install_minizip.dir/main.cpp.o	96a00140590c0f76

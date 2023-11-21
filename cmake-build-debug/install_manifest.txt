@@ -1,7 +1,0 @@
-/home/marechaljas/CLionProjects/install_test/lib/libfoo.a
-/home/marechaljas/CLionProjects/install_test/include/Foo.h
-/home/marechaljas/CLionProjects/install_test/lib/libfoo.a
-/home/marechaljas/CLionProjects/install_test/lib/cmake/Bar/BarTargets.cmake
-/home/marechaljas/CLionProjects/install_test/lib/cmake/Bar/BarTargets-debug.cmake
-/home/marechaljas/CLionProjects/install_test/lib/cmake/Bar/BarConfig.cmake
-/home/marechaljas/CLionProjects/install_test/lib/cmake/Bar/BarConfigVersion.cmake

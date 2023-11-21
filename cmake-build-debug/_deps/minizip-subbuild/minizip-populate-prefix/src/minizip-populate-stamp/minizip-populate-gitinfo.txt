@@ -1,3 +1,0 @@
-repository='https://github.com/zlib-ng/minizip-ng.git'
-module=''
-tag='origin'
